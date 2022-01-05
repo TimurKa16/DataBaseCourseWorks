@@ -1,0 +1,50 @@
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\БД\БД\bin\Release\БД.exe.config
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\БД\БД\bin\Release\Database1.mdf
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\БД\БД\bin\Release\Database1_log.ldf
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\БД\БД\bin\Release\БД.exe
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\БД\БД\bin\Release\БД.pdb
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.Form1.resources
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.Form2.resources
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.Form3.resources
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.Form4.resources
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.Form5.resources
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.Form6.resources
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.Properties.Resources.resources
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.csproj.GenerateResource.Cache
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.exe
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.pdb
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\БД\БД\bin\Release\Database1.mdf
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\БД\БД\bin\Release\Database1_log.ldf
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\БД\БД\bin\Release\БД.exe.config
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\БД\БД\bin\Release\БД.exe
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\БД\БД\bin\Release\БД.pdb
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.csprojAssemblyReference.cache
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.Form1.resources
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.Form2.resources
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.Form3.resources
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.Form4.resources
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.Form5.resources
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.Form6.resources
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.Properties.Resources.resources
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.csproj.GenerateResource.cache
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.exe
+C:\Users\USER\Documents\раб\Projects\3 курс\1 семестр\БД\БД\obj\Release\БД.pdb
+C:\Users\timur\source\repos\ProjectsToUpload\бд\БД\БД\bin\Release\Database1.mdf
+C:\Users\timur\source\repos\ProjectsToUpload\бд\БД\БД\bin\Release\Database1_log.ldf
+C:\Users\timur\source\repos\ProjectsToUpload\бд\БД\БД\bin\Release\БД.exe.config
+C:\Users\timur\source\repos\ProjectsToUpload\бд\БД\БД\bin\Release\БД.exe
+C:\Users\timur\source\repos\ProjectsToUpload\бд\БД\БД\bin\Release\БД.pdb
+C:\Users\timur\source\repos\ProjectsToUpload\бд\БД\БД\obj\Release\БД.csproj.AssemblyReference.cache
+C:\Users\timur\source\repos\ProjectsToUpload\бд\БД\БД\obj\Release\БД.Form1.resources
+C:\Users\timur\source\repos\ProjectsToUpload\бд\БД\БД\obj\Release\БД.Form2.resources
+C:\Users\timur\source\repos\ProjectsToUpload\бд\БД\БД\obj\Release\БД.Form3.resources
+C:\Users\timur\source\repos\ProjectsToUpload\бд\БД\БД\obj\Release\БД.Form4.resources
+C:\Users\timur\source\repos\ProjectsToUpload\бд\БД\БД\obj\Release\БД.Form5.resources
+C:\Users\timur\source\repos\ProjectsToUpload\бд\БД\БД\obj\Release\БД.Form6.resources
+C:\Users\timur\source\repos\ProjectsToUpload\бд\БД\БД\obj\Release\БД.Properties.Resources.resources
+C:\Users\timur\source\repos\ProjectsToUpload\бд\БД\БД\obj\Release\БД.csproj.GenerateResource.cache
+C:\Users\timur\source\repos\ProjectsToUpload\бд\БД\БД\obj\Release\БД.csproj.CoreCompileInputs.cache
+C:\Users\timur\source\repos\ProjectsToUpload\бд\БД\БД\obj\Release\БД.exe
+C:\Users\timur\source\repos\ProjectsToUpload\бд\БД\БД\obj\Release\БД.pdb

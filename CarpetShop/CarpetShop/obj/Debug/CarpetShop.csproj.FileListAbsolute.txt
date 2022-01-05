@@ -1,0 +1,14 @@
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\CarpetShop\CarpetShop\bin\Debug\CarpetShop.exe.config
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\CarpetShop\CarpetShop\bin\Debug\Database1.mdf
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\CarpetShop\CarpetShop\bin\Debug\Database1_log.ldf
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\CarpetShop\CarpetShop\bin\Debug\CarpetShop.exe
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\CarpetShop\CarpetShop\bin\Debug\CarpetShop.pdb
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\CarpetShop\CarpetShop\obj\Debug\CarpetShop.Form1.resources
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\CarpetShop\CarpetShop\obj\Debug\CarpetShop.Form2.resources
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\CarpetShop\CarpetShop\obj\Debug\CarpetShop.Form3.resources
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\CarpetShop\CarpetShop\obj\Debug\CarpetShop.Form6.resources
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\CarpetShop\CarpetShop\obj\Debug\CarpetShop.Properties.Resources.resources
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\CarpetShop\CarpetShop\obj\Debug\CarpetShop.csproj.GenerateResource.Cache
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\CarpetShop\CarpetShop\obj\Debug\CarpetShop.exe
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\CarpetShop\CarpetShop\obj\Debug\CarpetShop.pdb
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\CarpetShop\CarpetShop\obj\Debug\CarpetShop.csprojResolveAssemblyReference.cache

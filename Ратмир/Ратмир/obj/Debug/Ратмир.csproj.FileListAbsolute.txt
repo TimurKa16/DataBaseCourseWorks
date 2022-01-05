@@ -1,0 +1,11 @@
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\Ратмир\Ратмир\bin\Debug\Ратмир.exe.config
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\Ратмир\Ратмир\bin\Debug\Database1.mdf
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\Ратмир\Ратмир\bin\Debug\Database1_log.ldf
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\Ратмир\Ратмир\bin\Debug\Ратмир.exe
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\Ратмир\Ратмир\bin\Debug\Ратмир.pdb
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\Ратмир\Ратмир\obj\Debug\Ратмир.csprojResolveAssemblyReference.cache
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\Ратмир\Ратмир\obj\Debug\Ратмир.Form1.resources
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\Ратмир\Ратмир\obj\Debug\Ратмир.Properties.Resources.resources
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\Ратмир\Ратмир\obj\Debug\Ратмир.csproj.GenerateResource.Cache
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\Ратмир\Ратмир\obj\Debug\Ратмир.exe
+C:\Users\Тимур\Documents\Visual Studio 2015\Projects\3 курс\1 семестр\Ратмир\Ратмир\obj\Debug\Ратмир.pdb
